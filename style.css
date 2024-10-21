@@ -1,0 +1,30 @@
+*{
+    padding: 2px;
+    margin: 0px;
+}
+
+
+.span1{
+    padding: 10px;
+ 
+    
+}
+nav{
+    padding: 5px;
+    display: flex;
+    background-color: black;
+    color: white;
+
+
+}
+#nav1{
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+#shop{
+    color: white;
+    background-color: black;
+    border: black;
+}
+
